@@ -1,12 +1,12 @@
-### About this fork ###
+## About this fork ##
 
 This is a version of [Phonogenesis](https://github.com/Accelsnow/phonogenesis) (by Sanders et al.) that strips it down to the Python script to run on a local machine. 
 
-#### Usage ####
+### Usage ###
 
 Simply run 
 
-` python main.py
+`python main.py`
 
 to generate a random dataset from a random rule.
 

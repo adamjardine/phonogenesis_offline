@@ -9,9 +9,6 @@ if __name__ == '__main__':
 
     DEFAULT_DATA = get_default_data() # from ../app/__init__.py
 
-    # HERE: the following is from ../app/routes.py in the create_quiz() function. Getting this to work probably gets the whole thing to work.
-    # size = int(question_attr['size'])
-    # max_cadt = int(question_attr['maxCADT'])
     size = 2
     max_cadt= 4
     # rule = DEFAULT_DATA['rules'][question_attr['rule']] # DEFAULT_DATA['rules'] is a dict from string names of rules to rule objects

@@ -1,3 +1,19 @@
+### About this fork ###
+
+This is a version of [Phonogenesis](https://github.com/Accelsnow/phonogenesis) (by Sanders et al.) that strips it down to the Python script to run on a local machine. 
+
+#### Usage ####
+
+Simply run 
+
+` python main.py
+
+to generate a random dataset from a random rule.
+
+
+## Info about original Phonogenesis 
+
+
 ### About Phonogenesis ###
 Phonogenesis is an online tool for constructing novel phonological data. Reference the contributor list below for project contributors. 
 Development of this project was funded by an AdvancedTeaching and Learning in Arts & Science grant from the University of Toronto Faculty of Arts & Science. Phonogenesis can be used to construct random phonological data that follow one or more rules. The basic version of Phonogenesis creates a single block of data that follows one hidden rule, allowing you to practice solving phonology problems. There is some customization available, and pieces of the solution can be selectively revealed or hidden to provide clues to the solution or to check your answer. The advanced version is still under development. It will for greater control over the construction of the data, including selecting specific rules, changing the word templates, and creating more complex datasets with multiple rules and rule interactions.

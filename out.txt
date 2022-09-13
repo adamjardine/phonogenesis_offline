@@ -1,0 +1,131 @@
+initializing...
+epenthesis
+12
+match end:  5
+not match end:  5
+match words:
+[ʃo, vef, veli, ʒaθag, siliz]
+epenthesis of u between consonants ===== <Predefined> { > u} / [consonant] _ [consonant]
+M
+[(up, 0), (oð, 0), (iʔ, 0), (eʒ, 0)]
+up
+Attempt 1: error at index list index out of range
+15
+match end:  6
+not match end:  6
+match words:
+[xi, zæŋ, d͡ʒælɛ, xɛjes, ʃɪbɑw, ɣeʒʊw]
+epenthesis of u between consonants ===== <Predefined> { > u} / [consonant] _ [consonant]
+M
+[(ɔv, 0), (ɪd͡ʒ, 0), (ɛg, 0), (eʒ, 0)]
+ɔv
+N
+[(θʊ, 0), (gɪ, 0), (æ, 0), (ʊ, 0), (ɛ, 0), (ʃæ, 0), (ɑ, 0), (ŋu, 0), (u, 0), (xo, 0)]
+θʊ
+N
+[(gɪ, 0), (æ, 0), (ʊ, 0), (ɛ, 0), (ʃæ, 0), (ɑ, 0), (ŋu, 0), (u, 0), (xo, 0)]
+gɪ
+words transfered:
+[xi, zæŋ, d͡ʒælɛ, xɛjes, ʃɪbɑw, ɣeʒʊw, æ, iv, ufæ, ibɔʔ, æsim, ɛʒɪp, id͡ʒɪf, uzæl, iɣur]
+epenthesis of u between consonants ===== <Predefined> { > u} / [consonant] _ [consonant]
+M
+[(oð, 0), (e, 0), (et͡ʃ, 0), (ɑ, 0), (zɑ, 0), (ig, 0), (ŋo, 0), (ɪr, 0), (ɣə, 0), (ɪ, 0), (æ, 0), (ə, 0), (xʊ, 0), (is, 0)]
+oð
+words transfered:
+[d͡ʒælɛ, ɣeʒʊw, ibɔʔ, zæŋ, xi, ufæ, ʃɪbɑw, iv, xɛjes, æsim, æ, iɣur, id͡ʒɪf, uzæl, ɛʒɪp]
+colcount: 3/2
+Problem set generated. Problem set:
+Warning: +not found in dictionary
+Warning: +not found in dictionary
+Warning: +not found in dictionary
+Warning: +not found in dictionary
+Warning: +not found in dictionary
+infinitive		negative		agentive		present		past		gloss
+ɔvud͡ʒælɛ		θʊd͡ʒælɛ		gɪd͡ʒælɛ		d͡ʒælɛ		d͡ʒælɛoð		arrive
+ɔvuɣeʒʊw		θʊɣeʒʊw		gɪɣeʒʊw		ɣeʒʊw		ɣeʒʊwoð		swallow
+ɔvibɔʔ		θʊibɔʔ		gɪibɔʔ		ibɔʔ		ibɔʔoð		cut
+ɔvuzæŋ		θʊzæŋ		gɪzæŋ		zæŋ		zæŋoð		repeat
+ɔvuxi		θʊxi		gɪxi		xi		xioð		bounce
+ɔvufæ		θʊufæ		gɪufæ		ufæ		ufæoð		change
+ɔvuʃɪbɑw		θʊʃɪbɑw		gɪʃɪbɑw		ʃɪbɑw		ʃɪbɑwoð		fold
+ɔviv		θʊiv		gɪiv		iv		ivoð		recline
+ɔvuxɛjes		θʊxɛjes		gɪxɛjes		xɛjes		xɛjesoð		develop
+ɔvæsim		θʊæsim		gɪæsim		æsim		æsimoð		catch
+ɔvæ		θʊæ		gɪæ		æ		æoð		pull
+ɔviɣur		θʊiɣur		gɪiɣur		iɣur		iɣuroð		expect
+ɔvid͡ʒɪf		θʊid͡ʒɪf		gɪid͡ʒɪf		id͡ʒɪf		id͡ʒɪfoð		avoid
+ɔvuzæl		θʊuzæl		gɪuzæl		uzæl		uzæloð		regret
+ɔvɛʒɪp		θʊɛʒɪp		gɪɛʒɪp		ɛʒɪp		ɛʒɪpoð		enjoy
+
+Answer:
+Rule: <Predefined> { > u} / [consonant] _ [consonant]
+Underlying forms: 
+UR		gloss
+/d͡ʒælɛ/	"arrive"
+/ɣeʒʊw/	"swallow"
+/ibɔʔ/	"cut"
+/zæŋ/	"repeat"
+/xi/	"bounce"
+/ufæ/	"change"
+/ʃɪbɑw/	"fold"
+/iv/	"recline"
+/xɛjes/	"develop"
+/æsim/	"catch"
+/æ/	"pull"
+/iɣur/	"expect"
+/id͡ʒɪf/	"avoid"
+/uzæl/	"regret"
+/ɛʒɪp/	"enjoy"
+/ɔv +/	"infinitive"
+/θʊ +/	"negative"
+/gɪ +/	"agentive"
+/+∅/	"present"
+/+ oð/	"past"
+
+LaTeX:
+
+\begin{tabular}[t]{llllll}
+infinitive	&	negative	&	agentive	&	present	&	past	&	gloss
+\textipa{Ovu\t{dZ}\ae lE}	&	\textipa{TU\t{dZ}\ae lE}	&	\textipa{gI\t{dZ}\ae lE}	&	\textipa{\t{dZ}\ae lE}	&	\textipa{\t{dZ}\ae lEoD}	&	``arrive''	\\
+\textipa{OvuGeZUw}	&	\textipa{TUGeZUw}	&	\textipa{gIGeZUw}	&	\textipa{GeZUw}	&	\textipa{GeZUwoD}	&	``swallow''	\\
+\textipa{OvibOP}	&	\textipa{TUibOP}	&	\textipa{gIibOP}	&	\textipa{ibOP}	&	\textipa{ibOPoD}	&	``cut''	\\
+\textipa{Ovuz\ae N}	&	\textipa{TUz\ae N}	&	\textipa{gIz\ae N}	&	\textipa{z\ae N}	&	\textipa{z\ae NoD}	&	``repeat''	\\
+\textipa{Ovuxi}	&	\textipa{TUxi}	&	\textipa{gIxi}	&	\textipa{xi}	&	\textipa{xioD}	&	``bounce''	\\
+\textipa{Ovuf\ae }	&	\textipa{TUuf\ae }	&	\textipa{gIuf\ae }	&	\textipa{uf\ae }	&	\textipa{uf\ae oD}	&	``change''	\\
+\textipa{OvuSIbAw}	&	\textipa{TUSIbAw}	&	\textipa{gISIbAw}	&	\textipa{SIbAw}	&	\textipa{SIbAwoD}	&	``fold''	\\
+\textipa{Oviv}	&	\textipa{TUiv}	&	\textipa{gIiv}	&	\textipa{iv}	&	\textipa{ivoD}	&	``recline''	\\
+\textipa{OvuxEjes}	&	\textipa{TUxEjes}	&	\textipa{gIxEjes}	&	\textipa{xEjes}	&	\textipa{xEjesoD}	&	``develop''	\\
+\textipa{Ov\ae sim}	&	\textipa{TU\ae sim}	&	\textipa{gI\ae sim}	&	\textipa{\ae sim}	&	\textipa{\ae simoD}	&	``catch''	\\
+\textipa{Ov\ae }	&	\textipa{TU\ae }	&	\textipa{gI\ae }	&	\textipa{\ae }	&	\textipa{\ae oD}	&	``pull''	\\
+\textipa{OviGur}	&	\textipa{TUiGur}	&	\textipa{gIiGur}	&	\textipa{iGur}	&	\textipa{iGuroD}	&	``expect''	\\
+\textipa{Ovi\t{dZ}If}	&	\textipa{TUi\t{dZ}If}	&	\textipa{gIi\t{dZ}If}	&	\textipa{i\t{dZ}If}	&	\textipa{i\t{dZ}IfoD}	&	``avoid''	\\
+\textipa{Ovuz\ae l}	&	\textipa{TUuz\ae l}	&	\textipa{gIuz\ae l}	&	\textipa{uz\ae l}	&	\textipa{uz\ae loD}	&	``regret''	\\
+\textipa{OvEZIp}	&	\textipa{TUEZIp}	&	\textipa{gIEZIp}	&	\textipa{EZIp}	&	\textipa{EZIpoD}	&	``enjoy''	\\
+\end{tabular}
+
+Answer:
+Rule: <Predefined> { > u} / [consonant] _ [consonant]
+Underlying forms: 
+\begin{tabular}{ll}
+UR	&	gloss
+/\textipa{\t{dZ}\ae lE}/	&	``arrive''	\\
+/\textipa{GeZUw}/	&	``swallow''	\\
+/\textipa{ibOP}/	&	``cut''	\\
+/\textipa{z\ae N}/	&	``repeat''	\\
+/\textipa{xi}/	&	``bounce''	\\
+/\textipa{uf\ae }/	&	``change''	\\
+/\textipa{SIbAw}/	&	``fold''	\\
+/\textipa{iv}/	&	``recline''	\\
+/\textipa{xEjes}/	&	``develop''	\\
+/\textipa{\ae sim}/	&	``catch''	\\
+/\textipa{\ae }/	&	``pull''	\\
+/\textipa{iGur}/	&	``expect''	\\
+/\textipa{i\t{dZ}If}/	&	``avoid''	\\
+/\textipa{uz\ae l}/	&	``regret''	\\
+/\textipa{EZIp}/	&	``enjoy''	\\
+/\textipa{Ov +}/	&	``infinitive''	\\
+/\textipa{TU +}/	&	``negative''	\\
+/\textipa{gI +}/	&	``agentive''	\\
+/\textipa{+\ensuremath{\varnothing}}/	&	``present''	\\
+/\textipa{+ oD}/	&	``past''	\\
+\end{tabular}

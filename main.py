@@ -50,7 +50,7 @@ if __name__ == '__main__':
         lline+=i+"\t&\t"
 
     plainlines.append(line+"gloss")
-    latexlines.append(lline+"gloss")
+    latexlines.append(lline+"gloss \\")
 
     row = 0
     for l in questn["core_data"]:
